@@ -15,6 +15,7 @@
         "WorldMixin",
         "redstone.BulbBlockMixin",
         "enchanting.AnvilMixin",
+        "enchanting.AnvilScreenHandlerMixin",
         "enchanting.DamageUtilMixin",
         "enchanting.BookItemMixin",
         "enchanting.EnchantmentScreenHandlerMixin",
